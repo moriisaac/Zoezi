@@ -94,3 +94,8 @@ class WorkoutApp(tk.Tk):
         if self.current_workout >= len(self.plan.workout_list):
             self.label.config(text="Congratulations! You have completed your workout.")
             return
+        
+ if name == "main":
+# Code to gather user information and create a workout plan
+  user = User(name, age, weight, height, goal)
+  plan = create_plan(user)
