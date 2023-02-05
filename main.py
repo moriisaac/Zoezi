@@ -19,15 +19,15 @@ class Plan:
         self.user = user
         self.workout_list = workout_list
 
-def create_plan(user):
+   def create_plan(user):
     # code to create a workout plan for the user based on their information and goal
-    return Plan(user, workout_list)
+     return Plan(user, workout_list)
 
-def start_workout(plan):
+   def start_workout(plan):
     # code to start the workout and guide the user through each exercise
     pass
 
-def track_progress(plan):
+   def track_progress(plan):
     # code to track the user's progress and store their workout history
     pass
 
