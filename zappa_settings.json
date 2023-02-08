@@ -5,7 +5,10 @@
        "attach_policy": "zoezi-fit-iam-policy.json",
        "manage_roles": true,
        "role_name": "zoezi-fit-tutorial",
-       "environment_variables": "us-east-1",
+       "environment_variables": {
+           "REGION": "us-east-1"
+       },
        "runtime": "python3.10"
    }
 }
+
