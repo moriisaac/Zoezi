@@ -1,0 +1,17 @@
+{
+  "name": "Zoezi",
+  "version": "1.0.0",
+  "Statement": [
+       {
+           "Effect": "Allow",
+           "Action": [
+               "lambda:InvokeFunction",
+               "dynamodb:PutItem"
+           ],
+           "Resource": [
+               "*"
+           ]
+       }
+   ]
+}
+

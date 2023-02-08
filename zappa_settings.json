@@ -1,0 +1,10 @@
+{
+   "tutorial": {
+       "app_function": "lambda_handler.app",
+       "keep_warm": false,
+       "attach_policy": "zoezi-fit-iam-policy.json",
+       "manage_roles": true,
+       "role_name": "zoezi-fit-tutorial",
+       "runtime": "python3.10"
+   }
+}
