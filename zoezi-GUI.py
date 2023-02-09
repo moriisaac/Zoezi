@@ -1,5 +1,5 @@
 import tkinter as tk
-ggh
+
 class User:
     def __init__(self, name, age, weight, height, goal):
         self.name = name
