@@ -7,7 +7,7 @@ Custom workout plans tailored to individual goals and abilities
 A progress tracker to monitor progress and see improvement over time
 User-friendly interface that makes it easy to use for everyone
 Option to choose between different workout types (strength, cardio, etc.)
-Ability to track daily nutrition and caloric intake89
+Ability to track daily nutrition and caloric intake
 
 
 # Requirements
