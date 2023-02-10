@@ -3,7 +3,7 @@
 Zoezi is a personal workout trainer that uses python to guide users through their fitness journey. The program provides users with custom workout plans and tracks their progress, making fitness more accessible and achievable.
 
 # Features
-Custom workout plans tailored to individual goals and abilities89
+Custom workout plans tailored to individual goals and abilities
 A progress tracker to monitor progress and see improvement over time
 User-friendly interface that makes it easy to use for everyone
 Option to choose between different workout types (strength, cardio, etc.)
