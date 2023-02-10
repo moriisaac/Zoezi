@@ -11,7 +11,7 @@ Ability to track daily nutrition and caloric intake
 
 
 # Requirements
-Python 3.6 or higher000
+Python 3.6 or higher
 An internet connection to download required packages
 
 # Installation
