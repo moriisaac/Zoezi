@@ -28,7 +28,7 @@ We welcome contributions to Zoezi! If you would like to contribute, please follo
 # Fork the repository
 Clone your fork: git clone https://github.com/YOUR_USERNAME/Zoezi.git
 Create a new branch: git checkout -b my-new-feature
-Make your changes
+Make your changes67
 Commit your changes: git commit -am "Add my new feature"
 Push to your branch: git push origin my-new-feature
 Submit a pull request
