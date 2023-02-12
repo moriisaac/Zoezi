@@ -10,7 +10,7 @@ Option to choose between different workout types (strength, cardio, etc.)
 Ability to track daily nutrition and caloric intake
 
 
-# Requirements
+# Requirements890000
 Python 3.6 or higher
 An internet connection to download required packages
 
