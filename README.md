@@ -33,6 +33,5 @@ Commit your changes: git commit -am "Add my new feature"
 Push to your branch: git push origin my-new-feature
 Submit a pull request
 # License
-Zoezi is licensed under the MIT License.
-oititoitvj
+Zoezi is licensed under the MIT License
 
