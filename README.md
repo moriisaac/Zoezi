@@ -13,7 +13,7 @@ Ability to track daily nutrition and caloric intake
 # Requirements
 Python 3.6 or higher
 An internet connection to download required packages
-------------
+-----------
 # Installation
 Clone the repository: git clone https://github.com/YOUR_USERNAME/Zoezi.git
 Change into the directory: cd Zoezi
